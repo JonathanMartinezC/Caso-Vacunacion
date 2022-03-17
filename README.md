@@ -1,1 +1,2 @@
 # Caso-Vacunacion
+No responsive
